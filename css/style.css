@@ -349,6 +349,11 @@ hr {
   .right-side img {
     height: 250px;
   }
+  .projects-section{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
 
   .project-card {
     width: 100%;
